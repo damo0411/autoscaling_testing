@@ -9,7 +9,7 @@ sudo apt install nginx -y
 sudo apt install python-apt -y
 sudo apt install stress -y 
 sudo apt install git -y  
-sudo git clone https://github.com/saikiranpi/autoscaling_testing.git /myrepo
+sudo git clone https://github.com/damo0411/autoscaling_testing.git /myrepo
 
 ######GIVE ONLY ABOVE IN THE USER DATA FOR AMI IMAGE FOR AWS AUTOSCALING##########
 #
